@@ -1,4 +1,3 @@
-# PANTO Health Backend Developer Technical Assessment
 
 IoT Data Management System with RabbitMQ Integration using NestJS.
 
