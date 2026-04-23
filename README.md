@@ -171,4 +171,4 @@ services:
 ---
 
 ## 👨‍💻 Author
-Backend implementation by @trueMNOX // MehdiBeizavi.
+Backend implementation by @trueMNOX .
